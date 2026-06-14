@@ -1,0 +1,42 @@
+HEADER{
+	background-color:blue;
+	padding:20px;
+	padding-bottom:2px;
+	text-align:center;
+}
+nav{
+	background-color:black;
+	text-align:center;
+	font-style:italic;
+	font-size:40px;
+	color:white;
+	text-decoration:none;
+	font-family:arial;
+}
+
+	
+}
+footer{
+	background-color:blue;
+	text-align:center;
+	padding:20px;
+}
+img{
+	text-align:center;
+	height:50px;
+	width:50px; 
+	BORDER-RADIUS:200PX;
+}
+.IM{
+	text-align:center;
+	height:800px;
+	width:800px; 
+}
+UL{
+	background-color:GRAY;
+	BORDER-RADIUS:20000PX;
+	border-left:100PX;
+	border-right:100PX;
+	margin-right:300PX;
+		margin-left:300PX;
+}
